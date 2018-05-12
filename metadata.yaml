@@ -1,10 +1,16 @@
 _repo: Straw-Hats-Their-history-and-manufacture_48719
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48719-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Inwards, Harry
     gutenberg_agent_id: '44942'
     url: http://www.gutenberg.org/2009/agents/44942
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48719#Straw-Hats-Their-history-and-manufacture
 gutenberg_issued: '2015-04-16'
 gutenberg_type: Text
 identifiers:
